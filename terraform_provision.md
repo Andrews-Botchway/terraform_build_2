@@ -19,7 +19,7 @@ terraform apply
 ```
 
 
-## Pull up the web application and ssh into the web server (optional)
+## Pull up the web application and ssh into the web server
 
 Visit your web application by pointing your browser at the public_ip output for your EC2 instance. To get that address you can look at the state details of the EC2 instance by performing a
 
